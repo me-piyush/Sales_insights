@@ -1,12 +1,12 @@
 # Sales_insights
 A Power BI dashboard to give the sales director real-time sales insights. The dashboard visualizes data from sales, marketing, and product data sources.
 
-#Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
 
 
 SQL database dump is in SQL sales data.sql file above. 
 
-Data Analysis Using SQL
+# Data Analysis Using SQL
 Show all customer records
 
 SELECT * FROM customers;
